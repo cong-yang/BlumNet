@@ -6,11 +6,11 @@ curves, endpoints and junctions, and reconstructs graphs.
 ## Citation
 
 ```
-@article{zhang2022xxxx,
-title={xxxxxxxxxxxxxxxxxxxxxxxxx},
-author={xxxxxxxxxxxxxxx},
-booktitle={xxxxxxxxxxxx},
-pages={xxxx-xxxx},
+@article{Zhang2022BlumNet,
+title={BlumNet: Graph Component Detection for Object Skeleton Extraction},
+author={Zhang, Yulu and Sang, Liang and Grzegorzek, Marcin and See, John and Yang, Cong},
+booktitle={ACM International Conference on Multimedia},
+pages={5527-5536},
 year={2022}
 }
 ```
